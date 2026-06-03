@@ -1,0 +1,16 @@
+{
+    "name": "OdtHandler",
+    "version": "0.0.1",
+    "author": "Alessandro Carloni @Comune di Rovereto",
+    "description": "Genera anteprime per i file ODT, OFS e ODF estraendo la thumbnail nativa dallo zip.",
+    "type": "media",
+	"MediaHandlers": {
+			"application/vnd.oasis.opendocument.text": "OdtHandler",
+			"application/vnd.oasis.opendocument.spreadsheet": "OdtHandler",
+			"application/vnd.oasis.opendocument.presentation": "OdtHandler"
+		},
+    "AutoloadClasses": {
+        "OdtHandler": "src/OdtHandler.php"
+    },
+    "manifest_version": 2
+}

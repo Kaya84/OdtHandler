@@ -1,6 +1,6 @@
 # OdtThumbnailHandler
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 An elegant, lightweight, and high-performance thumbnail handler for **MediaWiki (1.40+)** to automatically generate preview images for OpenDocument files (`.odt`, `.ods`, `.odp`).
 
